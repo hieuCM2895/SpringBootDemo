@@ -1,4 +1,4 @@
 public class Quy {
 
-    // code sai
+    // code chuan
 }
